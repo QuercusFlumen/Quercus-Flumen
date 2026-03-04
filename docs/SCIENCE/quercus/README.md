@@ -1,170 +1,184 @@
 # QUERCUS
 ## Base científica del vector hoja en Quercus Flumen
 
-Esta carpeta recoge el marco científico que explica por qué la hoja de
-**Quercus pyrenaica (melojo)**, procedente de un **bosque maduro en un entorno natural protegido**, ha demostrado ser especialmente adecuada como materia prima en el desarrollo de Wild.
+Esta carpeta recoge el marco científico que explica por qué la hoja de  
+**Quercus pyrenaica (melojo)**, procedente de un **bosque maduro en un entorno natural de alta calidad ambiental**, ha demostrado ser especialmente adecuada como materia prima en el desarrollo de *Wild*.
 
-El objetivo no es revelar el proceso productivo, sino aportar un marco
-científico sólido que permita comprender:
+El objetivo de esta sección no es revelar el proceso productivo, sino aportar un **marco científico sólido** que permita comprender:
 
-- la especie
-- su química vegetal
+- la especie vegetal utilizada
+- su química foliar
 - el papel del bosque maduro
-- el ciclo natural de la hoja
+- el ciclo natural de la hoja en el ecosistema
 - la calidad ambiental del entorno
 
-Todo ello forma el **vector hoja**, segundo pilar del proyecto junto con el agua.
+Todo ello forma el **vector hoja**, segundo pilar del proyecto junto con el **vector agua**.
+
+Esta documentación distingue entre:
+
+- **conocimiento científico consolidado** descrito en la literatura
+- **observaciones e hipótesis de trabajo** derivadas del proceso experimental del proyecto.
 
 ---
 
-# 1. La especie: Quercus pyrenaica
+# 1. La especie: *Quercus pyrenaica*
 
-Quercus pyrenaica Willd., conocido como **melojo o rebollo**, es una especie
-de roble ampliamente distribuida en la Península Ibérica, especialmente en
-zonas montanas y suelos silíceos.
+*Quercus pyrenaica* Willd., conocido como **melojo o rebollo**, es una especie de roble ampliamente distribuida en la Península Ibérica, especialmente en **zonas montanas sobre suelos silíceos ácidos**.
 
-Características relevantes para el proyecto:
+Se trata de una especie característica de los **rebollares supramediterráneos**, formaciones forestales frecuentes en sistemas montañosos del centro y oeste peninsular.
 
-• alta presencia de **compuestos fenólicos y taninos**  
-• hojas con **estructura resistente y rica en lignina**  
-• ciclo estacional bien definido  
-• degradación progresiva y relativamente estable en suelo forestal
+Desde el punto de vista ecológico y químico, el género *Quercus* presenta rasgos relevantes:
 
-Estas características hacen que su hojarasca sea especialmente interesante
-desde el punto de vista ecológico y químico.
+- presencia significativa de **compuestos fenólicos**, incluidos diversos tipos de taninos  
+- hojas con **estructura rica en lignina y celulosa**, lo que condiciona su velocidad de descomposición  
+- ciclo estacional bien definido con caída otoñal de la hoja  
+- degradación progresiva de la hojarasca en el suelo forestal
+
+La proporción y composición exacta de estos compuestos **puede variar** en función de múltiples factores:
+
+- fenología de la hoja
+- condiciones climáticas
+- características del suelo
+- edad y estado fisiológico del árbol
+- estrés ambiental
+
+Estas características hacen que la hojarasca de robles del género *Quercus* haya sido objeto de numerosos estudios en **ecología forestal y ciclos de materia orgánica**.
 
 ---
 
 # 2. La hoja como vector químico
 
-La hoja de Quercus contiene una amplia variedad de compuestos orgánicos,
-entre los que destacan:
+Las hojas de *Quercus* contienen una amplia variedad de **compuestos orgánicos secundarios**, entre los que destacan:
 
-- taninos
+- taninos (hidrolizables y condensados)
 - polifenoles
+- flavonoides
 - ácidos fenólicos
 - compuestos precursores de sustancias húmicas
 
-Estos compuestos participan en numerosos procesos ecológicos:
+Estos compuestos cumplen múltiples funciones ecológicas, entre ellas:
 
-• defensa vegetal  
-• regulación microbiológica  
-• interacción con el suelo  
-• formación de materia orgánica estable
+• defensa frente a herbívoros  
+• protección frente a estrés ambiental  
+• regulación de interacciones microbiológicas  
+• participación en los ciclos de carbono del suelo
 
-En sistemas acuáticos naturales, estos compuestos forman parte de lo que se
-conoce como **materia orgánica disuelta (DOM)**.
+Durante los procesos de descomposición de la hojarasca, parte de estos compuestos puede incorporarse a la **materia orgánica disuelta (DOM, Dissolved Organic Matter)** presente en sistemas acuáticos.
+
+La fracción DOM incluye diversas moléculas orgánicas que influyen en propiedades fisicoquímicas del agua, como:
+
+- absorción de luz
+- capacidad complejante de metales
+- disponibilidad de carbono para microorganismos
+
+La relación entre **DOM, carbono orgánico disuelto (DOC)** y procesos ecológicos en sistemas acuáticos es un área ampliamente estudiada en limnología.
 
 ---
 
 # 3. Bosque maduro y calidad de la hojarasca
 
-La hoja no es un elemento aislado.
+La hoja no debe considerarse un elemento aislado.  
+Su composición química y su comportamiento ecológico están profundamente condicionados por el **ecosistema forestal del que procede**.
 
-Su composición y comportamiento están profundamente condicionados por:
+Factores relevantes incluyen:
 
-- la edad del árbol
-- el tipo de bosque
-- el suelo
-- el clima
-- la microbiota forestal
+- edad de los árboles
+- estructura del bosque
+- tipo de suelo
+- clima local
+- microbiota del suelo
 
-En bosques maduros se observa:
+En bosques maduros se observa habitualmente:
 
-• mayor estabilidad ecológica  
-• ciclos de hojarasca más equilibrados  
-• microbiota del suelo más diversa  
-• procesos de humificación más estables
+• mayor complejidad estructural  
+• ciclos de hojarasca relativamente equilibrados  
+• comunidades microbianas del suelo más diversas  
+• procesos de humificación más continuos
 
-Esto influye directamente en la calidad de la materia orgánica procedente
-de la hoja.
+Estos factores influyen directamente en los **procesos de transformación de la materia orgánica procedente de la hoja**.
 
 ---
 
 # 4. El ciclo natural de la hoja
 
-Tras su caída, la hoja entra en un proceso natural de transformación:
+Tras su caída en otoño, la hoja entra en un proceso natural de transformación en el suelo forestal que incluye varias fases:
 
-1. lavado por lluvia y nieve  
+1. lixiviación inicial por lluvia o nieve  
 2. colonización microbiana aerobia  
 3. degradación parcial de compuestos solubles  
-4. estabilización progresiva de su estructura
+4. progresiva humificación de la materia orgánica
 
-Este proceso no es instantáneo ni uniforme.
+Este proceso no es instantáneo ni uniforme.  
+La velocidad y características de estas transformaciones dependen de factores como:
 
-El proyecto trabaja con la hipótesis de que existe un **estado óptimo de la
-hoja**, donde:
+- humedad
+- temperatura
+- microbiota del suelo
+- composición química inicial de la hoja
 
-• ha sido parcialmente transformada por el bosque  
-• mantiene integridad estructural  
-• no ha entrado aún en fases avanzadas de degradación
+A partir de la experimentación realizada en el proyecto, se plantea la hipótesis de que puede existir un **estado intermedio de la hoja** particularmente interesante desde el punto de vista del equilibrio entre:
 
-Este estado no se define por una fecha concreta sino por **condiciones y
-estado del material vegetal**.
+• integridad estructural del material vegetal  
+• transformación ecológica inicial en el bosque  
+• ausencia de degradación avanzada
+
+Este estado no se define por una fecha concreta, sino por **características físicas y ecológicas observables en el material vegetal**.
 
 ---
 
 # 5. Entorno natural y calidad ambiental
 
-El área de trabajo se encuentra dentro del:
+El área de trabajo se sitúa en el entorno de la **Sierra de Francia**, dentro del marco ecológico del **Parque Natural Las Batuecas – Sierra de Francia** y en la zona de influencia de la **Reserva de la Biosfera Sierras de Béjar y Francia (UNESCO)**.
 
-**Parque Natural Las Batuecas – Sierra de Francia**
+Se trata de un territorio caracterizado por:
 
-y en el entorno de la
-
-**Reserva de la Biosfera Sierras de Béjar y Francia (UNESCO)**.
-
-Este marco territorial implica:
-
-• baja presión industrial  
 • elevada cobertura forestal  
-• continuidad ecológica
+• baja presión industrial  
+• continuidad ecológica significativa
 
-La presencia de **líquenes** en el bosque actúa además como indicador
-biológico de buena calidad ambiental.
+La presencia de **líquenes epífitos** en el bosque constituye además un indicador biológico de interés.
 
-Los líquenes son ampliamente utilizados en ecología como bioindicadores
-de contaminación atmosférica y estabilidad ambiental.
+Los líquenes son ampliamente utilizados en estudios ecológicos como **bioindicadores de calidad ambiental**, debido a que:
+
+- absorben nutrientes directamente de la atmósfera
+- son sensibles a contaminantes atmosféricos
+- reflejan condiciones ambientales a largo plazo
+
+Aunque su presencia no constituye una medida cuantitativa directa de calidad del aire, sí es compatible con **entornos de baja contaminación atmosférica**.
 
 ---
 
 # 6. Implicaciones para el proyecto Wild
 
-La combinación de factores:
+El proyecto plantea la hipótesis de que la combinación de los siguientes factores:
 
-• especie vegetal (Quercus pyrenaica)  
+• especie vegetal (*Quercus pyrenaica*)  
 • bosque maduro  
-• ciclo natural de la hoja  
+• ciclo natural de transformación de la hoja  
 • entorno ambiental de alta calidad  
 • agua de baja mineralización  
 
-constituye la base ecológica del proyecto.
+puede favorecer la obtención de un extracto orgánico caracterizado por:
 
-La hipótesis de trabajo es que esta combinación favorece un extracto
-orgánico:
+• estabilidad relativa en sistemas acuosos  
+• equilibrio en la fracción orgánica disuelta  
+• menor presencia de compuestos asociados a degradaciones avanzadas
 
-• más estable  
-• más equilibrado  
-• con menor arrastre de sólidos o compuestos inestables
-
-en comparación con materias primas excesivamente degradadas o procesadas
-de forma agresiva.
+Estas observaciones proceden de **testaje experimental interno** y se interpretan dentro del marco científico descrito en esta sección.
 
 ---
 
 # 7. Programa científico futuro
 
-Con la llegada de analíticas externas del agua y futuras analíticas del
-extracto se pretende ampliar este marco científico mediante:
+Con la incorporación de **analíticas externas del agua** y futuras analíticas del extracto se pretende ampliar este marco científico mediante:
 
 • análisis fisicoquímicos del agua  
-• análisis de carbono orgánico disuelto (DOC)  
-• espectros UV-Vis de materia orgánica  
+• determinación de carbono orgánico disuelto (DOC)  
+• análisis espectrofotométricos UV-Vis de materia orgánica  
 • estudios de estabilidad del extracto  
 • análisis microbiológicos de seguridad
 
-Los resultados publicados serán siempre agregados y no replicables
-directamente, preservando el know-how del proceso.
+Los resultados publicados serán siempre **agregados y no replicables directamente**, preservando el know-how del proceso.
 
 ---
 
@@ -180,11 +194,12 @@ Esta carpeta se desarrollará en los siguientes documentos:
 06_implicaciones_para_blackwater.md  
 bibliografia.md
 
+Cada documento desarrollará un aspecto concreto del **vector hoja** utilizando literatura científica, fuentes académicas y documentación ecológica contrastada.
+
 ---
 
 # Nota final
 
 Esta sección no pretende promocionar el producto.
 
-Su objetivo es **sostener científicamente el proyecto** y documentar el
-contexto ecológico y biológico que lo hace posible.
+Su objetivo es **sostener científicamente el proyecto**, documentar el contexto ecológico en el que se desarrolla y establecer una base de conocimiento verificable sobre el papel de la hoja de *Quercus pyrenaica* en el marco conceptual de Quercus Flumen.
