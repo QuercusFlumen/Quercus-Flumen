@@ -187,3 +187,173 @@ Si un producto se alinea con ese modo (DOM-first, estabilidad, control orgánico
 - (Peat swamps y blackwater SE Asia: síntesis) Rieley, J. O., & Page, S. E. (Eds.). (2016). *Tropical Peatland Ecosystems.* Springer.
 
 ---
+# Bibliografía ampliada — contexto global blackwater
+
+La siguiente bibliografía recoge literatura científica relevante para comprender
+los sistemas **blackwater** desde tres perspectivas complementarias:
+
+1. química y óptica de la materia orgánica disuelta (DOM/CDOM)
+2. geoquímica y química ambiental de aguas naturales
+3. implicaciones biológicas en ecosistemas acuáticos y especies de peces
+
+El objetivo de esta sección es proporcionar **marco científico verificable**
+al modelo conceptual del proyecto Quercus Flumen sin revelar
+detalles replicables del proceso.
+
+---
+
+# 1. DOM, CDOM y óptica de aguas naturales (base conceptual principal)
+
+Coble, P. G. (1996).  
+Characterization of marine and terrestrial DOM in seawater using excitation-emission matrix spectroscopy.  
+Marine Chemistry, 51(4), 325–346.  
+https://doi.org/10.1016/0304-4203(95)00062-3
+
+Weishaar, J. L., Aiken, G. R., Bergamaschi, B. A., Fram, M. S., Fujii, R., & Mopper, K. (2003).  
+Specific ultraviolet absorbance as an indicator of the chemical composition and reactivity of dissolved organic carbon.  
+Environmental Science & Technology, 37(20), 4702–4708.  
+https://doi.org/10.1021/es030360x
+
+Cory, R. M., & McKnight, D. M. (2005).  
+Fluorescence spectroscopy reveals ubiquitous presence of oxidized quinones in dissolved organic matter.  
+Environmental Science & Technology, 39(21), 8142–8149.  
+https://doi.org/10.1021/es0506962
+
+Kirk, J. T. O. (2011).  
+Light and Photosynthesis in Aquatic Ecosystems (3rd ed.).  
+Cambridge University Press.
+
+Spencer, R. G. M., Butler, K. D., & Aiken, G. R. (2012).  
+Dissolved organic carbon and chromophoric dissolved organic matter properties of rivers in the Amazon basin.  
+Geophysical Research Letters, 39.
+
+Helms, J. R., Stubbins, A., Ritchie, J. D., Minor, E. C., Kieber, D. J., & Mopper, K. (2008).  
+Absorption spectral slopes and slope ratios as indicators of molecular weight, source, and photobleaching of chromophoric dissolved organic matter.  
+Limnology and Oceanography.
+
+Fellman, J. B., Hood, E., & Spencer, R. G. M. (2010).  
+Fluorescence spectroscopy opens new windows into dissolved organic matter dynamics in freshwater ecosystems.  
+Limnology and Oceanography.
+
+---
+
+# 2. Química ambiental de la materia orgánica natural
+
+Thurman, E. M. (1985).  
+Organic Geochemistry of Natural Waters.  
+Springer.
+
+Stevenson, F. J. (1994).  
+Humus Chemistry: Genesis, Composition, Reactions (2nd ed.).  
+Wiley.
+
+Stumm, W., & Morgan, J. J. (1996).  
+Aquatic Chemistry: Chemical Equilibria and Rates in Natural Waters (3rd ed.).  
+Wiley.
+
+Tipping, E. (2002).  
+Cation Binding by Humic Substances.  
+Cambridge University Press.
+
+Aiken, G. R., McKnight, D. M., Wershaw, R. L., & MacCarthy, P. (1985).  
+Humic Substances in Soil, Sediment, and Water.  
+Wiley.
+
+Wetzel, R. G. (2001).  
+Limnology: Lake and River Ecosystems (3rd ed.).  
+Academic Press.
+
+Tranvik, L. J., et al. (2009).  
+Lakes and reservoirs as regulators of carbon cycling and climate.  
+Limnology and Oceanography.
+
+---
+
+# 3. Sistemas blackwater a escala global
+
+Sioli, H. (1984).  
+The Amazon: Limnology and Landscape Ecology of a Mighty Tropical River and Its Basin.
+
+Junk, W. J., Piedade, M. T. F., Wittmann, F., Schöngart, J., & Parolin, P. (2010).  
+Amazonian floodplain forests: Ecophysiology, biodiversity and sustainable management.  
+Springer.
+
+Lambert, T., et al. (2016).  
+Dissolved organic carbon sources and dynamics in the Congo River basin.  
+Biogeosciences.
+
+Moore, S., Gauci, V., Evans, C. D., & Page, S. E. (2011).  
+Fluvial organic carbon losses from a Bornean tropical peat swamp forest.  
+Biogeosciences.
+
+Rieley, J. O., & Page, S. E. (2016).  
+Tropical Peatland Ecosystems.  
+Springer.
+
+---
+
+# 4. Interacciones DOM–metales y procesos ecológicos
+
+Tipping, E., & Hurley, M. A. (1992).  
+A unifying model of cation binding by humic substances.  
+Geochimica et Cosmochimica Acta.
+
+Aiken, G. R., Hsu-Kim, H., & Ryan, J. N. (2011).  
+Influence of dissolved organic matter on the environmental fate of metals, nanoparticles and colloids.  
+Environmental Science & Technology.
+
+Perdue, E. M., & Ritchie, J. D. (2003).  
+Dissolved organic matter in freshwaters.  
+Treatise on Geochemistry.
+
+---
+
+# 5. Implicaciones biológicas en peces y acuicultura
+
+Meinelt, T., et al. (2007).  
+The influence of humic substances on the physiology of fish.  
+Aquaculture.
+
+Steinberg, C. E. W., et al. (2006).  
+Dissolved humic substances – ecological driving forces from the individual to the ecosystem level?  
+Freshwater Biology.
+
+Steinberg, C. E. W., et al. (2008).  
+Effects of humic substances on fish physiology and stress response.  
+Aquatic Toxicology.
+
+Sinha, A., et al. (2017).  
+Humic acid as an immunostimulant in aquaculture species.  
+Aquaculture Research.
+
+---
+
+# 6. Nota científica final
+
+Los ecosistemas blackwater naturales representan
+sistemas acuáticos donde la química del agua
+está dominada por la **materia orgánica disuelta (DOM)**.
+
+La interacción entre:
+
+- aportes vegetales
+- hidrología del sistema
+- mineralización del agua
+- transformaciones microbianas
+
+da lugar a soluciones orgánicas complejas cuya
+manifestación visual (color) es solo una parte
+del fenómeno químico y ecológico.
+
+Por este motivo, el análisis científico de sistemas
+blackwater debe considerar simultáneamente:
+
+• química del carbono orgánico  
+• óptica del agua  
+• interacciones con metales  
+• dinámica microbiológica  
+• efectos biológicos en organismos acuáticos
+
+Este enfoque interdisciplinar constituye el marco
+científico sobre el que se apoya el estudio del
+proyecto Quercus Flumen.
