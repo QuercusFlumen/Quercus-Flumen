@@ -1,92 +1,118 @@
 # Estudio del mercado de productos Blackwater
 
-Este apartado del repositorio presenta un análisis del mercado actual de productos líquidos utilizados para recrear **entornos amazónicos o blackwater** en acuariofilia.
+Esta sección del repositorio presenta un análisis público del mercado de productos líquidos utilizados para recrear **entornos blackwater** en acuariofilia.
 
-El objetivo de este estudio no es comparar marcas concretas ni emitir juicios sobre productos existentes.
+El objetivo de este estudio no es comparar ni evaluar marcas concretas.
 
 La categoría blackwater lleva décadas desarrollándose y ha permitido a miles de acuaristas recrear condiciones naturales para peces y otros organismos acuáticos.
 
-Nuestro objetivo aquí es diferente:
+Este apartado intenta aportar algo diferente:
 
-## entender cómo funciona actualmente esta categoría de productos.
+una visión general de cómo funciona actualmente esta categoría y qué preguntas interesantes aparecen cuando se observa desde una perspectiva más técnica.
 
-Y, a partir de ahí, explicar cómo el proyecto **Wild / Quercus Flumen** se sitúa dentro de ese contexto.
-
----
-
-# Qué analiza este estudio
-
-El análisis se ha realizado sobre una muestra amplia de productos líquidos presentes en el mercado internacional.
-
-Estos productos incluyen:
-
-- extractos de turba
-- extractos vegetales
-- extractos de hoja de catappa
-- soluciones húmicas o fúlvicas
-- acondicionadores de agua con componentes orgánicos
-
-Todos ellos comparten un objetivo común:
-
-recrear o aproximar **condiciones de agua negra (blackwater)** en acuarios.
+El estudio también sirve como contexto para explicar el origen y el enfoque del proyecto **Wild / Quercus Flumen**.
 
 ---
 
-# Qué preguntas nos hicimos
+# Cómo leer esta sección
 
-Durante el estudio intentamos responder preguntas muy simples:
+Los documentos de esta carpeta están organizados para leerse en un orden lógico.
 
-- ¿qué tipo de información recibe realmente el usuario?
-- ¿qué efectos declaran normalmente estos productos?
-- ¿qué tipo de dosificaciones se recomiendan?
-- ¿qué datos analíticos se publican?
-- ¿qué puede verificar realmente el usuario?
+Cada uno introduce una parte del contexto.
 
-Estas preguntas no buscan cuestionar el valor de los productos existentes.
-
-Buscan comprender **cómo se comunica esta categoría** y qué aspectos podrían explicarse mejor.
+El orden recomendado de lectura es el siguiente.
 
 ---
 
-# Por qué hicimos este estudio
+# Índice de documentos
 
-El proyecto **Wild / Quercus Flumen** nace de una experiencia práctica dentro del acuarismo:
+## 1 — Panorama actual del mercado Blackwater
 
-la dificultad de mantener sistemas muy estables en aguas extremadamente blandas utilizando:
+📄 `panorama_del_mercado_blackwater.md`
 
-- hojas naturales
-- materiales orgánicos
-- productos comerciales existentes
+Este documento describe el contexto general de la categoría.
 
-A partir de esa experiencia decidimos estudiar la categoría con más profundidad.
+Explica:
 
-El resultado es este pequeño dossier abierto.
+- qué tipos de productos existen
+- qué enfoques utiliza el mercado
+- cómo ha evolucionado la recreación de entornos blackwater dentro del hobby
 
----
-
-# Qué encontrarás en esta sección
-
-En los siguientes documentos explicamos:
-
-- cómo funciona hoy el mercado blackwater
-- qué tipo de información reciben los acuaristas
-- qué limitaciones tiene actualmente la categoría
-- qué espacio existe para nuevos enfoques
-
-Y finalmente:
-
-cómo el proyecto **Wild** intenta explorar ese espacio.
+Es una introducción general al tema.
 
 ---
 
-# Un principio importante
+## 2 — Qué información recibe realmente el usuario
 
-Este estudio no pretende desacreditar productos existentes.
+📄 `que_informacion_recibe_realmente_el_usuario.md`
 
-El mercado blackwater ha permitido durante años acercar la acuariofilia a entornos naturales.
+Este documento analiza qué tipo de información suelen publicar los productos de esta categoría.
 
-Nuestro objetivo es simplemente añadir una capa más de comprensión.
+Se examinan aspectos como:
 
-Si algo define el proyecto Wild es esta idea:
+- descripciones habituales de los productos
+- efectos que se comunican al usuario
+- información técnica disponible
 
-## entender mejor el sistema para poder recrearlo mejor.
+El objetivo es entender qué tipo de datos recibe realmente el acuarista cuando utiliza estos productos.
+
+---
+
+## 3 — Límites actuales de la categoría
+
+📄 `limites_actuales_de_la_categoria.md`
+
+Este documento explora algunos de los desafíos inherentes a recrear sistemas naturales complejos mediante productos líquidos.
+
+Se discuten aspectos como:
+
+- la complejidad de la materia orgánica disuelta
+- la diferencia entre color y composición química
+- las limitaciones de los sistemas simplificados frente a procesos naturales
+
+El objetivo es comprender mejor los límites estructurales de esta categoría.
+
+---
+
+## 4 — Qué aporta Wild en este contexto
+
+📄 `que_aporta_wild_en_este_contexto.md`
+
+Este documento introduce el proyecto **Wild / Quercus Flumen** dentro del contexto descrito anteriormente.
+
+Explica:
+
+- cómo surgió el proyecto
+- qué preguntas intenta responder
+- qué enfoque propone para trabajar con materia orgánica en sistemas de agua blanda
+
+Este documento conecta el análisis del mercado con el desarrollo del proyecto.
+
+---
+
+# Qué intenta hacer este estudio
+
+El objetivo de esta sección no es cuestionar los productos existentes.
+
+La categoría blackwater ha sido una parte importante del desarrollo de la acuariofilia moderna.
+
+Más bien se trata de plantear algunas preguntas interesantes:
+
+- cómo funcionan realmente estos sistemas
+- qué tipo de información recibe el usuario
+- cómo podrían evolucionar estos enfoques en el futuro
+
+El proyecto **Wild** nace precisamente dentro de esta reflexión.
+
+---
+
+# Relación con el resto del repositorio
+
+Esta sección forma parte del repositorio **Quercus Flumen**, que documenta diferentes aspectos relacionados con:
+
+- química de la materia orgánica disuelta (DOM)
+- interacción entre agua y material vegetal
+- procesos naturales de lixiviación
+- estabilidad de sistemas de agua blanda
+
+El estudio del mercado presentado aquí sirve como contexto para entender por qué surgió el proyecto Wild y qué preguntas intenta explorar.
