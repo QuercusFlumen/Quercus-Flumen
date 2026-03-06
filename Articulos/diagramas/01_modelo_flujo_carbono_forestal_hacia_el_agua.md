@@ -47,34 +47,3 @@ R --> U[Propiedades ópticas del agua]
 S --> V[Equilibrio del sistema acuático]
 T --> V
 U --> V
----
-Interpretación del modelo
-1. Fijación inicial del carbono
-El carbono atmosférico es incorporado al ecosistema forestal mediante fotosíntesis y convertido en biomasa vegetal.
-2. Transferencia al suelo
-Parte de esa biomasa termina en el suelo en forma de:
-hojas caídas
-restos vegetales
-material leñoso fino
-3. Transformación en la hojarasca y el suelo
-Una vez en el suelo forestal, la materia vegetal inicia procesos de:
-hidratación
-lixiviación
-degradación microbiana
-transformación química
-4. Exportación hacia el agua
-Los compuestos orgánicos generados pueden ser transportados hacia sistemas acuáticos mediante:
-drenaje del suelo
-escorrentía superficial
-flujo subsuperficial
-5. Incorporación a la DOM acuática
-Una vez en el agua, estos compuestos pasan a formar parte de la materia orgánica disuelta, que influye en:
-química del agua
-actividad biológica
-propiedades ópticas
-equilibrio del sistema
-Valor del modelo
-Este esquema permite visualizar una idea fundamental:
-la materia orgánica disuelta presente en el agua no nace en el agua.
-nace en la interacción entre bosque, suelo y flujo hídrico.
-Esta perspectiva conecta directamente el ecosistema terrestre con la química del sistema acuático.
