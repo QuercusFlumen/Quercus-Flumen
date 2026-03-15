@@ -139,7 +139,6 @@ Una vez alcanzado ese estado, el material se adapta al formato Tea mediante una 
 ## Preparación
 
 - selección  
-- lavado  
 - secado  
 - triturado  
 - cribado  
@@ -228,7 +227,7 @@ La escala está ligada al bosque y al recurso.
 ### Formato limpio
 La experiencia de uso es clara, sencilla y reproducible.
 
-Tea no compite por ser el producto más intenso ni el más barato.
+Tea no compite por ser el producto más intenso ni el más concentrado.
 
 Compite por ser uno de los más **coherentes y cuidadosamente construidos** dentro de su categoría.
 
