@@ -304,3 +304,52 @@ La diferencia está en el **formato final y la forma de uso**.
 ---
 
 # 12. Estructura de esta carpeta
+
+### README.md  
+Portada del módulo Tea.
+
+### filosofia.md  
+Visión general del proyecto.
+
+### materia_prima.md  
+Materia prima y transformación natural de la hoja.
+
+### proceso.md  
+Descripción pública del proceso sin revelar parámetros técnicos.
+
+### funcionamiento.md  
+Cómo interactúa Tea con el agua.
+
+### usos.md  
+Formas de uso en acuariofilia.
+
+### origen.md  
+Origen del recurso y filosofía ecológica.
+
+### faq.md  
+Preguntas frecuentes.
+
+### privado/  
+Documentación estratégica interna del proyecto.
+
+---
+
+# 13. En resumen
+
+Tea es una forma pequeña, práctica y cuidadosamente construida de trabajar con hoja de Quercus en acuariofilia.
+
+Pero su verdadero valor no está solo en el formato.
+
+Está en la suma de todo lo que lo hace posible:
+
+- un bosque real  
+- una observación prolongada  
+- una materia prima transformada por el ecosistema  
+- un criterio de maduración  
+- un proceso deliberado  
+- una escala limitada  
+- una filosofía de equilibrio  
+
+Quercus Flumen — Tea no vende simplemente hojas.
+
+Trabaja con ellas **en el momento correcto de su transformación**.
