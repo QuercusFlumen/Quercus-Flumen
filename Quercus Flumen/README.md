@@ -1,177 +1,186 @@
 # Quercus Flumen
 
-## Origen
-
-Quercus Flumen nace en un entorno real.
-
-Un bosque.
-Un agua.
-Un territorio.
-
-En las faldas de la Sierra de Francia, rodeados de robles,
-trabajamos con materia orgánica forestal tal como existe en la naturaleza.
-
-No partimos de un laboratorio.
-Partimos de un ecosistema.
+**Origen forestal. Ciencia real. Resultado tangible.**
 
 ---
 
-## Qué es este proyecto
+## Qué es Quercus Flumen
 
-Quercus Flumen es un proyecto centrado en el estudio y la aplicación
-de materia orgánica de origen forestal en sistemas acuáticos.
+Quercus Flumen es un proyecto que nace en el bosque.
 
-Integra tres pilares:
+Un entorno real, dominado por robles, ciclos naturales y materia orgánica
+en constante transformación.
 
-- observación del entorno natural
+No partimos de una idea de producto.
+
+Partimos de la observación.
+
+Durante años hemos trabajado con agua, hojas y sistemas acuáticos,
+intentando entender qué ocurre realmente cuando el entorno forestal
+interactúa con el medio acuático.
+
+Este proyecto es el resultado de ese proceso.
+
+---
+
+## Qué hacemos hoy
+
+Hoy, Quercus Flumen se materializa en un producto:
+
+## → Wild Core
+
+**Concentrado Orgánico Forestal (formato seco)**
+
+Un material vegetal procesado que permite al usuario generar,
+en su propio entorno, un concentrado líquido de alta carga orgánica.
+
+No es una infusión.
+
+No es un extracto débil.
+
+Es una base concentrada que reproduce, de forma controlada,
+los aportes naturales de materia orgánica en sistemas acuáticos.
+
+---
+
+## Por qué es diferente
+
+Wild Core no nace de una formulación teórica.
+
+Nace de:
+
 - experimentación directa
-- base científica contrastada
+- observación del comportamiento de la hoja en diferentes estados
+- análisis de su transformación en agua
+- repetición de procesos hasta encontrar un equilibrio real
 
-El objetivo no es replicar artificialmente un efecto visual,
-sino comprender y trasladar procesos reales al agua.
+El resultado es un producto que:
 
----
-
-## Qué hacemos
-
-Trabajamos con hojas, procesos de transformación natural
-y dinámica de la materia orgánica disuelta.
-
-Analizamos:
-
-- qué compuestos se generan
-- cómo cambian con el tiempo
-- cómo se comportan en agua
-- qué efectos producen en sistemas acuáticos
-
-Y a partir de ahí desarrollamos soluciones prácticas.
+- no depende de químicos sintéticos
+- no simplifica la complejidad natural
+- no imita, sino que reproduce procesos reales
 
 ---
 
-## Por qué existe
+## Qué hay detrás
 
-El proyecto nace de una constatación sencilla:
+Este repositorio recoge el trabajo completo que sustenta el proyecto.
 
-la mayoría de productos del mercado simplifican en exceso
-la complejidad de los sistemas naturales.
+No es solo un producto.
 
-Reducen el concepto a color.
-
-Pero el bosque no es solo color.
-Es química, dinámica, equilibrio y transformación.
-
-Quercus Flumen surge para trabajar desde ese nivel.
+Es un proceso.
 
 ---
 
-## Wild Core
+### 01 · Quiénes somos
 
-Wild Core es la primera materialización de este enfoque.
+Quién está detrás del proyecto y desde dónde se desarrolla.
 
-Un concentrado orgánico forestal en formato seco que permite
-generar en casa un concentrado líquido real mediante extracción.
-
-No es un aditivo inmediato.
-
-Es una herramienta.
-
-Permite trabajar con el agua desde una base orgánica coherente,
-controlable y reproducible.
+→ `01_quienes_somos.md`
 
 ---
 
-## Enfoque
+### 02 · Bosque y entorno
 
-Este proyecto se construye bajo una premisa clara:
+El origen real del conocimiento: el ecosistema forestal.
 
-explicar lo que hacemos sin simplificarlo,
-pero sin exponer el conocimiento crítico del proceso.
-
-Aquí encontrarás:
-
-- fundamentos científicos
-- lógica del sistema
-- evolución del proyecto
-- resultados observados
-- formas de uso
+→ `02_bosque_y_entorno.md`
 
 ---
 
-## Qué encontrarás en esta carpeta
+### 03 · Nuestra historia
 
-La carpeta Quercus Flumen se organiza en varias secciones:
+Cómo evoluciona el proyecto desde la observación
+hasta la obtención de Wild Core.
 
-- quiénes somos y de dónde viene el proyecto
-- el entorno natural en el que se desarrolla
-- la historia y evolución del trabajo
-- la filosofía que lo sustenta
-- Wild Core como producto actual
-- base científica del sistema
-- experimentación y validación
-- uso práctico
+→ `03_nuestra_historia.md`
 
 ---
 
-## Idea central
+### 04 · Filosofía
 
-El bosque no es un producto.
+Principios que guían el proyecto:
 
-Es un sistema.
+- honestidad
+- coherencia
+- rechazo de simplificaciones artificiales
 
-Quercus Flumen intenta entenderlo y trasladar parte de ese sistema
-al agua de forma honesta, controlada y útil.
-
----
-
-## Estado del proyecto
-
-Este repositorio es un espacio vivo.
-
-El contenido se irá ampliando y refinando a medida que el proyecto
-avance y se consolide.
+→ `04_filosofia.md`
 
 ---
 
-## Nota
+### 05 · Wild Core
 
-Este repositorio es público.
+El producto actual.
 
-Se comparte conocimiento, contexto y resultados,
-pero no se exponen procesos industriales ni formulaciones completas.
-Quercus Flumen/
-│
-├── README.md  ← portada / landing
-│
-├── 01_quienes_somos.md
-├── 02_bosque_y_entorno.md
-├── 03_nuestra_historia.md
-├── 04_filosofia.md
-│
-├── 05_wild_core/
-│   ├── README.md
-│   ├── que_es_wild_core.md
-│   ├── por_que_formato_seco.md
-│   ├── que_lo_hace_diferente.md
-│
-├── 06_science/
-│   ├── README.md
-│   ├── materia_organica_disuelta.md
-│   ├── hoja_como_sistema.md
-│   ├── estados_de_la_hoja.md
-│   ├── transformacion_en_agua.md
-│
-├── 07_experimentacion/
-│   ├── README.md
-│   ├── origen_del_proyecto.md
-│   ├── evolucion_hasta_wild_core.md
-│   ├── validacion_inicial.md
-│
-├── 08_uso/
-│   ├── README.md
-│   ├── preparacion.md
-│   ├── conservacion.md
-│   ├── dosificacion.md
-│
-└── 09_media/
-    ├── fotos/
-    └── imagenes/
+Qué es, por qué existe y qué lo hace diferente.
+
+→ `05_wild_core/`
+
+---
+
+### 06 · Science
+
+Base científica del proyecto.
+
+Estudio de la materia orgánica de origen forestal
+y su comportamiento en sistemas acuáticos.
+
+→ `06_science/`
+
+---
+
+### 07 · Experimentación
+
+Proceso real de pruebas, errores y evolución
+hasta llegar al estado actual.
+
+→ `07_experimentacion/`
+
+---
+
+### 08 · Uso
+
+Cómo trabajar con Wild Core en sistemas reales:
+
+- preparación
+- conservación
+- dosificación
+
+→ `08_uso/`
+
+---
+
+## Qué no es este repositorio
+
+Este repositorio no es una fórmula abierta.
+
+No se detallan:
+
+- proporciones internas del producto
+- procesos industriales específicos
+- configuraciones exactas de mezcla
+
+El objetivo no es replicar el producto.
+
+El objetivo es entenderlo.
+
+---
+
+## Qué sí es este repositorio
+
+Es una base abierta de conocimiento:
+
+- sobre materia orgánica forestal
+- sobre su comportamiento en agua
+- sobre cómo trabajar con ella de forma coherente
+
+Y una forma de mostrar que el resultado no es casual.
+
+---
+
+## Idea clave
+
+No estamos simplificando la naturaleza.
+
+Estamos aprendiendo a trabajar con ella.
