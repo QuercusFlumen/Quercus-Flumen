@@ -2,262 +2,233 @@
 
 ## Visión general
 
-Las aguas naturales influenciadas por ecosistemas forestales
-contienen una mezcla compleja de compuestos orgánicos
-procedentes del material vegetal.
+Las aguas naturales influenciadas por ecosistemas forestales contienen
+una mezcla compleja de compuestos orgánicos procedentes del material vegetal.
 
-Hojas, fragmentos de madera, corteza y otros restos vegetales
-interactúan continuamente con el agua mediante procesos de
-hidratación, lixiviación y transformación microbiana.
+Hojas, fragmentos de madera, corteza y otros restos vegetales interactúan
+continuamente con el agua mediante procesos de:
 
-Estos procesos liberan una amplia variedad de moléculas
-orgánicas al medio acuático, formando lo que se conoce como
-**materia orgánica disuelta (DOM)**.
+- hidratación
+- lixiviación
+- transformación microbiana
+- transporte físico y químico
 
-El objetivo de esta sección es estudiar los **componentes
-moleculares que pueden originarse a partir de hojas forestales
-y entrar en sistemas acuáticos**.
+Estos procesos liberan una amplia variedad de moléculas orgánicas al medio
+acuático, formando lo que se conoce como **materia orgánica disuelta (DOM)**.
 
-Esta sección complementa la documentación principal de
-SCIENCE pasando de una descripción a nivel de ecosistema
-a una **perspectiva química y molecular**.
+Esta sección aborda el estudio de estos compuestos desde una perspectiva
+química, funcional y dinámica.
 
 ---
 
-# Alcance de esta sección
+## Alcance de esta sección
 
-Esta sección se centra específicamente en:
+Esta sección se centra en:
 
 - compuestos orgánicos derivados de **material foliar forestal**
 - compuestos **solubles o potencialmente solubles en agua**
-- compuestos que pueden influir en la **química o microbiología acuática**
+- compuestos que influyen en la **química, microbiología y estabilidad del sistema acuático**
 
-No pretende catalogar todos los metabolitos vegetales,
-sino estudiar aquellos que son relevantes para la
-**dinámica de la materia orgánica disuelta en agua**.
-
----
-
-# Pregunta científica central
-
-La pregunta que guía esta sección es:
-
-**¿Qué compuestos orgánicos pueden originarse a partir de hojas
-forestales, cómo varían según el estado de la hoja y cómo se
-comportan una vez disueltos en agua?**
-
-Responder a esta pregunta requiere conectar conocimientos de:
-
-- bioquímica vegetal
-- geoquímica orgánica
-- limnología
-- ecología acuática
+No pretende catalogar todos los metabolitos vegetales, sino estudiar aquellos
+relevantes para la **dinámica de la materia orgánica disuelta en agua**.
 
 ---
 
-# Preguntas de investigación
+## Enfoque conceptual
 
-Esta sección se organiza alrededor de varias preguntas clave.
+El estudio de la materia orgánica de origen forestal no puede abordarse
+únicamente desde la identificación de compuestos aislados.
+
+Es necesario integrar:
+
+- composición molecular
+- estado de transformación de la materia vegetal
+- vías de entrada al sistema acuático
+- procesos de transformación en agua
+- efectos sobre el sistema biológico y químico
+
+Esto conduce a un modelo integrado:
+
+**componentes → origen → transformación → implicaciones → composición → caracterización**
 
 ---
 
-## 1. ¿Qué compuestos orgánicos pueden liberarse desde hojas al agua?
+## Pregunta científica central
 
-Las hojas contienen numerosas familias de compuestos orgánicos,
-entre ellas:
+**¿Qué compuestos orgánicos se originan a partir de hojas forestales, cómo
+varían según su estado de transformación, cómo entran en el sistema acuático
+y cómo evolucionan dentro de él?**
+
+---
+
+## Preguntas de investigación
+
+Esta sección se organiza en torno a las siguientes preguntas:
+
+---
+
+### 1. ¿Qué compuestos orgánicos están presentes en hojas forestales?
+
+Se analizan las principales familias:
 
 - taninos
-- compuestos fenólicos
-- derivados de lignina
-- sustancias húmicas y fúlvicas
-- compuestos orgánicos de bajo peso molecular
-
-Comprender cuáles de estos compuestos pueden realmente pasar al
-agua es fundamental para entender la composición de la DOM
-de origen forestal.
-
----
-
-## 2. ¿Cómo influye la edad de la hoja en su composición química?
-
-La química de una hoja cambia a lo largo de su ciclo de vida.
-
-Se distinguen generalmente varias etapas:
-
-- hoja joven
-- hoja madura
-- hoja senescente
-- hojarasca parcialmente degradada
-
-Cada etapa puede presentar diferentes concentraciones de
-taninos, compuestos fenólicos y compuestos estructurales.
-
----
-
-## 3. ¿Cómo influye la estación del año?
-
-Los ciclos estacionales afectan la producción de metabolitos
-secundarios en las plantas.
-
-Diversos estudios han mostrado variaciones estacionales
-significativas en la concentración de:
-
-- taninos
-- flavonoides
-- otros compuestos fenólicos.
-
----
-
-## 4. ¿Cómo influye el estado de degradación del material vegetal?
-
-Una vez que la hoja cae al suelo forestal comienza un proceso
-de transformación progresiva.
-
-Durante este proceso:
-
-- algunos compuestos se lixivian rápidamente
-- otros son transformados por microorganismos
-- algunos polímeros vegetales contribuyen a la formación de
-  sustancias húmicas
-
-Estas transformaciones influyen directamente en la naturaleza
-de la materia orgánica que llega al agua.
-
----
-
-## 5. ¿Qué diferencias existen entre las principales familias de compuestos?
-
-Las principales familias de compuestos orgánicos relevantes
-en sistemas acuáticos incluyen:
-
-- taninos hidrolizables
-- taninos condensados
 - ácidos húmicos
 - ácidos fúlvicos
 - compuestos fenólicos
 - derivados lignínicos
 - compuestos orgánicos de bajo peso molecular
 
-Cada grupo presenta propiedades químicas diferentes y
-puede desempeñar funciones distintas en sistemas acuáticos.
+---
+
+### 2. ¿Cómo varía la composición según el estado de la hoja?
+
+La hoja no es una materia prima estática.
+
+Su composición depende de su estado:
+
+- hoja reciente
+- hoja meteorizada
+- hoja en transformación
+- hoja altamente descompuesta
+
+Cada estado aporta un perfil químico distinto.
 
 ---
 
-## 6. ¿Cómo se transforman estos compuestos una vez disueltos en agua?
+### 3. ¿Cómo entra la materia orgánica al sistema acuático?
 
-Una vez en el agua, los compuestos orgánicos pueden experimentar
-diversos procesos de transformación:
+Los compuestos pueden llegar al agua mediante:
 
-- reacciones fotoquímicas
-- degradación microbiana
-- reacciones de oxidación y reducción
-- polimerización o fragmentación molecular
-
-Estos procesos determinan la composición final de la DOM.
+- lixiviación
+- escorrentía
+- filtración a través del suelo
+- interacción con lluvia (throughfall, stemflow)
+- caída directa de hojas
 
 ---
 
-## 7. ¿Qué compuestos contribuyen a la coloración del agua?
+### 4. ¿Cómo se transforman los compuestos en el agua?
 
-Algunos compuestos orgánicos absorben fuertemente la luz y
-contribuyen al color del agua, mientras que otros pueden
-influir en la química del sistema sin generar una coloración
-visible significativa.
+Una vez en el medio acuático, los compuestos participan en:
 
-Distinguir ambos efectos es importante para interpretar
-correctamente la química de aguas forestales.
-
----
-
-## 8. ¿Cómo interactúan estos compuestos con la química del agua?
-
-Los compuestos orgánicos pueden interactuar con el sistema
-acuático mediante procesos como:
-
-- complejación de metales
-- intercambio de protones
-- participación en reacciones redox
-- absorción de radiación ultravioleta
-
-Estas interacciones influyen en la dinámica química
-del agua.
+- transformación microbiana
+- oxidación química
+- fotodegradación
+- agregación molecular
+- interacción con metales
 
 ---
 
-## 9. ¿Cómo influyen en la microbiología acuática?
+### 5. ¿Qué implicaciones tienen en el sistema acuático?
 
-Muchos compuestos orgánicos derivados de material vegetal
-pueden servir como fuente de carbono para microorganismos.
+Los compuestos influyen en:
 
-Esto puede influir en:
-
-- actividad microbiana
-- formación de biofilms
-- reciclaje de nutrientes
-
-Estos procesos forman parte de lo que se conoce como
-**bucle microbiano**.
+- organismos acuáticos
+- microbiología
+- estabilidad química
+- dinámica de metales
+- propiedades ópticas
 
 ---
 
-## 10. ¿Qué compuestos pueden esperarse en extractos acuosos de hojas?
+### 6. ¿Cómo se estructuran los extractos orgánicos?
 
-Cuando hojas forestales interactúan con agua en condiciones
-controladas, una fracción de sus compuestos orgánicos puede
-disolverse formando una mezcla compleja de moléculas.
+Se introduce el concepto de extracto como sistema:
 
-Comprender qué compuestos pueden aparecer en estos extractos
-permite interpretar mejor su posible influencia en sistemas
-acuáticos.
+- no basado en una única fase de hoja
+- sino en la integración de múltiples estados de transformación
+
+Esto permite:
+
+- combinar fracciones químicas
+- equilibrar reactividad y estabilidad
+- aumentar complejidad y consistencia
 
 ---
 
-# Estructura de esta sección
+### 7. ¿Cómo pueden caracterizarse estos sistemas?
+
+Se analizan métodos para estudiar la DOM:
+
+- parámetros globales (DOC, absorbancia)
+- caracterización óptica
+- análisis molecular
+- interacción con metales
+
+---
+
+## Estructura de la sección
 
 La sección se organiza en los siguientes documentos:
 
-01_introduccion_componentes_organicos_forestales.md
-02_taninos.md
-03_acidos_humicos.md
-04_acidos_fulvicos.md
-05_compuestos_fenolicos.md
-06_derivados_ligninicos.md
-07_compuestos_organicos_bajo_peso_molecular.md
-08_variabilidad_de_la_hoja_y_estacionalidad.md
-09_transformacion_de_compuestos_en_agua.md
-10_implicaciones_acuaticas_de_los_componentes.md
-11_componentes_esperables_en_extractos_forestales.md
-12_metodos_de_caracterizacion_de_dom.md
+```text
+01_taninos.md
+02_acidos_humicos.md
+03_acidos_fulvicos.md
+04_compuestos_fenolicos.md
+05_derivados_ligninicos.md
+06_compuestos_organicos_bajo_peso_molecular.md
 
-Cada documento explora un aspecto específico de la dinámica
-química y ecológica de la materia orgánica de origen forestal
-en sistemas acuáticos.
+07_origen_foliar_y_estados_de_transformacion.md
+
+08_transformacion_de_compuestos_en_agua.md
+
+09_implicaciones_acuaticas_de_los_componentes.md
+
+10_composicion_de_extractos.md
+
+11_metodos_de_caracterizacion_de_dom.md
+```
 
 ---
 
-# Base científica
+## Lógica de la estructura
 
-El contenido de esta sección se apoya en una amplia literatura
-científica procedente de los campos de:
+La organización sigue una progresión científica:
+
+- **01–06 → componentes moleculares**
+- **07 → origen y estado de la materia prima**
+- **08 → comportamiento en el agua**
+- **09 → efectos en el sistema acuático**
+- **10 → integración en extractos**
+- **11 → medición y caracterización**
+
+---
+
+## Base científica
+
+El contenido se apoya en literatura procedente de:
 
 - limnología
 - geoquímica orgánica
 - ecología forestal
 - química de sustancias húmicas
-- investigación sobre materia orgánica disuelta
+- estudios de DOM
 
-Las referencias bibliográficas completas se añadirán en un
-documento específico en un commit posterior.
+Las referencias bibliográficas completas se incorporarán en un documento específico.
 
 ---
 
-# Nota final
+## Idea clave
 
-Comprender la composición molecular de la materia orgánica
-de origen forestal permite entender mejor cómo los ecosistemas
-terrestres influyen en la química del agua.
+La materia orgánica de origen forestal no es un conjunto de compuestos aislados.
 
-Esta sección pretende conectar **bioquímica vegetal,
-geoquímica orgánica y ecología acuática** dentro de un marco
-coherente para el estudio de sistemas acuáticos influenciados
-por material vegetal.
+Es un sistema dinámico resultado de la interacción entre:
+
+- composición molecular
+- estado de la materia vegetal
+- procesos de transformación
+- condiciones del medio acuático
+
+---
+
+## Conclusión
+
+Comprender la materia orgánica disuelta requiere un enfoque integrado.
+
+Esta sección proporciona un marco para analizar cómo los ecosistemas
+forestales influyen en la química del agua, desde el nivel molecular hasta
+el comportamiento del sistema completo.
+
+Más allá de los compuestos individuales, lo relevante es la estructura
+y dinámica del conjunto.
