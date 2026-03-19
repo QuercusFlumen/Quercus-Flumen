@@ -151,3 +151,67 @@ El corpus será ampliado en fases posteriores con:
 - caracterización avanzada de materia orgánica disuelta  
 
 El objetivo es construir una base sólida, progresiva y coherente que conecte ecosistema forestal, hoja y comportamiento en el medio acuático.
+
+---
+
+## 12. Química foliar avanzada — taninos, fenoles y dinámica estacional
+
+Feeny, P. (1970)  
+Seasonal changes in oak leaf tannins and nutrients  
+Ecology  
+
+Hunter, M. D., Schultz, J. C. (1995)  
+Foliage quality and plant-herbivore interactions  
+Ecology  
+
+Salminen, J. P. et al. (2001)  
+Distribution and variation of tannins in oak leaves  
+Journal of Chemical Ecology  
+
+---
+
+## 13. Senescencia y retranslocación
+
+Aerts, R. (1996)  
+Nutrient resorption from senescing leaves  
+Oikos  
+
+Killingbeck, K. T. (1996)  
+Nutrient resorption in plants  
+Annual Review of Ecology  
+
+---
+
+## 14. Lixiviación y liberación de compuestos
+
+Qualls, R. G. (2000)  
+Leaching of dissolved organic matter from plant litter  
+Ecology  
+
+Kalbitz, K. et al. (2003)  
+Controls on dissolved organic matter dynamics  
+Soil Science  
+
+---
+
+## 15. Variabilidad entre especies de Quercus
+
+Barbehenn, R., Constabel, C. (2011)  
+Tannins in plant defense  
+Phytochemistry  
+
+Moilanen, J. et al. (2015)  
+Phenolic compounds in deciduous trees  
+Forest Ecology  
+
+---
+
+## Nota ampliada
+
+Este bloque bibliográfico permite entender:
+
+- la variabilidad química de la hoja  
+- su evolución temporal  
+- su comportamiento al entrar en el agua  
+
+y constituye la base para interpretar resultados experimentales en sistemas acuáticos.
