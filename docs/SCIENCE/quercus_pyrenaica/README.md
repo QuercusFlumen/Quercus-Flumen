@@ -1,129 +1,176 @@
-# Quercus pyrenaica — Base científica de la hoja
+# Quercus pyrenaica — Sistema forestal, hoja y transferencia al medio acuático
 
-## Propósito
+## Visión general
 
-Esta sección se centra en el estudio en profundidad de la hoja de Quercus pyrenaica como materia prima principal del proyecto.
+Esta sección estudia **Quercus pyrenaica** desde una perspectiva integral.
 
-No se trata de una descripción botánica general.
+No se aborda únicamente la hoja como elemento aislado, sino el conjunto de procesos ecológicos, químicos y biológicos que la generan, la transforman y determinan su comportamiento en sistemas acuáticos.
 
-Se trata de entender:
+La hoja es el resultado de un sistema complejo.
 
-- qué es la hoja  
-- cómo cambia  
-- qué contiene  
-- cómo se transforma  
-- qué puede aportar en un entorno acuático  
+Ese sistema incluye:
 
----
+- el ecosistema forestal
+- el clima
+- el suelo
+- la microbiología
+- el árbol
+- y los procesos de transformación de la materia orgánica
 
-## Enfoque
-
-El estudio se aborda desde múltiples niveles:
-
-- ecológico  
-- morfológico  
-- bioquímico  
-- microbiológico  
-- geoquímico  
+Comprender la hoja requiere comprender todo ese sistema.
 
 ---
 
-## Pregunta central
+## Enfoque científico
 
-La pregunta que guía esta sección es:
+El enfoque de esta sección se basa en una idea fundamental:
 
-**¿Qué es realmente una hoja de Quercus pyrenaica y cómo evoluciona desde el árbol hasta su interacción con el agua?**
+**La materia orgánica de origen forestal no es un producto estático,  
+sino un flujo dinámico de compuestos que evolucionan en el tiempo y el espacio.**
 
----
+Por tanto, esta sección:
 
-## Líneas de estudio
+- no analiza la hoja como objeto
+- sino como **proceso**
 
-Esta sección se organiza en torno a varias líneas principales:
+Se estudia:
 
----
-
-### 1. El árbol y su entorno
-
-- distribución  
-- condiciones ambientales  
-- tipo de suelo  
-- clima  
+- su origen
+- su transformación
+- su interacción con el entorno
+- y su transferencia al agua
 
 ---
 
-### 2. La hoja como estructura
+## Alcance
 
-- morfología  
-- composición estructural  
-- función en el árbol  
+Esta sección se centra en:
 
----
+- el sistema forestal asociado a *Quercus pyrenaica*
+- la generación de materia orgánica de origen foliar
+- los procesos de senescencia y descomposición
+- la transferencia de compuestos al medio acuático
+- la dinámica de la materia orgánica disuelta (DOM)
 
-### 3. Composición química
-
-- compuestos estructurales  
-- compuestos secundarios  
-- variabilidad química  
-
----
-
-### 4. Taninos y fenoles
-
-- tipos presentes  
-- función ecológica  
-- variación según estado  
+No pretende ser una monografía botánica completa del género *Quercus*,
+sino un estudio enfocado a la **relación entre ecosistema forestal y agua**.
 
 ---
 
-### 5. Senescencia
+## Pregunta científica central
 
-- cambios en la hoja antes de caer  
-- movilización de compuestos  
-- transformación química  
+**¿Cómo se genera, transforma y transfiere la materia orgánica de origen foliar en sistemas dominados por Quercus pyrenaica, y qué implicaciones tiene en el medio acuático?**
 
 ---
 
-### 6. Descomposición
+## Preguntas de investigación
 
-- fases de degradación  
-- lixiviación  
-- papel de la microbiología  
+### 1. ¿Cómo es el ecosistema donde se desarrolla Quercus pyrenaica?
 
----
-
-### 7. Variabilidad
-
-- edad de la hoja  
-- estación  
-- entorno  
-- exposición  
+- distribución geográfica
+- clima
+- estacionalidad
+- estructura del bosque
 
 ---
 
-### 8. Interacción con el agua
+### 2. ¿Qué características tiene el suelo y el sustrato?
 
-- liberación de compuestos  
-- formación de DOM  
-- impacto en sistemas acuáticos  
-
----
-
-## Enfoque aplicado
-
-Aunque el contenido es científico, el objetivo es aplicado:
-
-entender cómo se comporta esta hoja en un sistema acuático
+- tipo de suelo (ácido, silíceo)
+- contenido en materia orgánica
+- disponibilidad de nutrientes
+- retención de agua
 
 ---
 
-## Importancia en el proyecto
+### 3. ¿Qué papel juega la microbiología del sistema?
 
-Quercus pyrenaica no es un ejemplo.
-
-Es la base.
+- microbiota del suelo
+- hongos descomponedores
+- micorrizas
+- bacterias del ciclo del carbono
 
 ---
 
-## Nota
+### 4. ¿Cómo funciona el árbol como organismo?
 
-Este documento se apoya en bibliografía científica que será recopilada y organizada en un archivo específico.
+- fisiología
+- adaptación al estrés
+- metabolismo
+- producción de compuestos secundarios
+
+---
+
+### 5. ¿Qué ocurre en la superficie del árbol?
+
+- líquenes
+- musgos
+- epífitos
+- interacción con el agua de lluvia
+
+---
+
+### 6. ¿Cómo es la hoja desde el punto de vista estructural y funcional?
+
+- anatomía foliar
+- función fotosintética
+- defensa química
+
+---
+
+### 7. ¿Qué composición química presenta la hoja?
+
+- taninos
+- compuestos fenólicos
+- lignina
+- compuestos orgánicos solubles
+
+---
+
+### 8. ¿Qué cambios ocurren durante la senescencia?
+
+- movilización de nutrientes
+- transformación química
+- preparación para la caída
+
+---
+
+### 9. ¿Qué sucede tras la caída de la hoja?
+
+- lixiviación inicial
+- degradación microbiana
+- formación de sustancias húmicas
+- fases de maduración
+
+---
+
+### 10. ¿Cómo se transfieren los compuestos al agua?
+
+- lluvia (throughfall)
+- flujo por tronco (stemflow)
+- escorrentía
+- lixiviación directa
+
+---
+
+### 11. ¿Qué ocurre cuando estos compuestos entran en el agua?
+
+- disolución
+- transformación química
+- interacción con microbiología
+- dinámica de la DOM
+
+---
+
+### 12. ¿Qué implicaciones tiene todo esto en sistemas acuáticos?
+
+- complejidad química
+- estabilidad del sistema
+- interacción con organismos vivos
+- resiliencia del entorno
+
+---
+
+## Estructura de la sección
+
+La sección se organiza en los siguientes documentos:
